@@ -18,11 +18,13 @@ Now change the config.py file:
 From:
 
 MAIL_USERNAME = os.environ.get('EMAIL_USER')
+
 MAIL_PASSWORD = os.environ.get('EMAIL_PASS') 
 
 To:
 
 MAIL_USERNAME = 'your_email_address@gmail.com'
+
 MAIL_PASSWORD = 'your_password'
 
 This will allow the website to access your gmail for password resets
