@@ -1,8 +1,6 @@
 # Flask Blog
 Blog website using Flask 
 
-# Screenshot 
-
 <img width="1440" alt="Screen Shot 2019-06-09 at 10 25 28 PM" src="https://user-images.githubusercontent.com/16765940/59169146-fb147f80-8b06-11e9-9404-7f6d906d4f70.png">
 
 
