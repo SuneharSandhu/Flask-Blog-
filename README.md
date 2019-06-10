@@ -38,5 +38,6 @@ If you want to leave the virtual environment, just type deactivate
 # Running the Application 
 
 Once you have the virtual environment setup you can run the program by running the command:
+
 (python or python3) run.py
   
