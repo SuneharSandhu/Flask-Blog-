@@ -1,2 +1,2 @@
-# Flask-Blog-
+# Flask Blog
 Blog website using Flask 
