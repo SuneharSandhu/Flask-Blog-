@@ -36,7 +36,7 @@ Now to run the application, enter the following command:
 
 python run.py or python3 run.py
 
-If you want to deactivate the virtual environment the simply type in deactivate in the command line
+If you want to deactivate the virtual environment then type in "deactivate" in the command line
 
 
 
